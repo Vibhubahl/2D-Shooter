@@ -1,5 +1,5 @@
 # 2D-Shooter
 
-Just Extract and run --NO NAME--.exe file
+Just Download the project Extract and run --NO NAME--.exe file
 
 ENJOY!!!!!!!!!!
